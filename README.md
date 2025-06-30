@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Back-end Development  
 - 💞️ I’m looking to collaborate on Creata a website to compress files, images and video.
 - 📫 Contact to reach me farhan24ah@gmail.com
-- 😄 Pronouns: Farhan
+- 😄 Pronouns: He/Him
 
 <!---
 farhan1807ahmad/farhan1807ahmad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
