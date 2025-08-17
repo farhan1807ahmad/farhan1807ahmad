@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Back-end Development  
 - 💞️ I’m looking to collaborate on Creata a website to compress links and image sizes.
 - 📫 Contact to reach me farhan24ah@gmail.com
+-    Let"s connect on Linkedin https://www.linkedin.com/in/farhanahmad1807/
 - 😄 Pronouns: He/Him
 
 <!---
